@@ -75,17 +75,17 @@ Web ではフロントエンドだけでなく、UI/UX デザイン、バック�
 - スクレイピング
   - PlayWright
   - Puppeteer
-- 開発ツール・コミュニケーションツール
-  - VSCode
-  - WebStorm
-  - IntelliJ IDEA
-  - PyCharm
-  - RubyMine
-  - Git
-  - GitHub
-    - GitHub Actions
-  - Asana
 - その他
+  - ソースコード管理
+    - Git
+    - GitHub
+      - GitHub Actions
+  - タスク管理
+    - Trello
+    - Asana
+  - コミュニケーション
+    - Zoom
+    - Slack
   - ジェネラティブデザイン
     - p5.js
     - Processing
