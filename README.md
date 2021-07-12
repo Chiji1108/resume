@@ -26,8 +26,8 @@ Web ではフロントエンドだけでなく、UI/UX デザイン、バック�
 [オンライン対戦ゲーム「ブロスタ」で、ランキング上位や特定の人の対戦履歴を保存し検索し閲覧することができるシステム](https://github.com/Chiji1108/bs-pickchecker) | Ruby on Rails / Docker / Heroku / PostgreSQL | 2020 年前半
 [掲示板サイト](https://github.com/Chiji1108/chijiiwa-forum) | Ruby on Rails / Docker / AWS S3 / Heroku / PostgreSQL / devise / kaminari / cancancan / i18n | 2020 年後半
 [オンライン対戦ゲーム「ブロスタ」で、ランキング上位 200 人の対戦履歴とそれぞれの試合内容（使用キャラなど）を簡単に閲覧できるシステム](https://github.com/Chiji1108/bs-ranking) | Next.js(React) / react-window(ウィンドウイング) / Storybook / Tailwind CSS(+ CSS modules) / Firebase (Hosting, Functions, Analytics) / GraphQL(Apollo) / Figma(Adobe XD) / Adobe Illustrator | 2020 年後半 ~ 2021 年前半
-[単語帳アプリ](https://github.com/Chiji1108/tree-flashcard) ([例](https://plant10.vercel.app/)) | PlayWright(スクレイピング) / Vercel / Next.js / Tailwind CSS | 2021 年 5 月
-[Zoom のためのアイコン生成アプリ](https://github.com/Chiji1108/zoom-icon-maker) ([UI](https://master--607ad529e019a8002151d3da.chromatic.com/)) | Vercel / Chromatic / Next.js / Storybook / Chakra UI / Jest / Mock Service Worker | 2021 年 4 月 ~ 6 月(WIP)
+[単語帳アプリ](https://github.com/Chiji1108/tree-flashcard) ([アプリ](https://plant10.vercel.app/)) | PlayWright(スクレイピング) / Vercel / Next.js / Tailwind CSS | 2021 年 5 月
+[Zoom のためのアイコン生成アプリ](https://github.com/Chiji1108/zoom-icon-maker) ([UI](https://master--607ad529e019a8002151d3da.chromatic.com/)) ([アプリ](https://zoom-icon-maker.vercel.app))| Vercel / Chromatic / Next.js / Storybook / Chakra UI / Jest / Mock Service Worker | 2021 年 4 月 ~ 6 月
 
 ## 利用したことのある技術一覧
 
@@ -37,15 +37,20 @@ Web ではフロントエンドだけでなく、UI/UX デザイン、バック�
     - JS フレームワーク
       - React
       - **Next.js**
+      - Vue
+      - Svelte
     - スタイリング関連
       - **Storybook**
       - CSS & Sass
       - Post CSS
-      - CSS modules
+      - CSS Modules
       - **Tailwind CSS**
       - Styled-Components
-      - Chakra UI
+      - **Chakra UI**
   - バックエンド
+    - **NestJS**
+    - **Prisma**
+    - **gRPC**
     - Node.js
       - Express
       - REST API
@@ -100,10 +105,14 @@ Web ではフロントエンドだけでなく、UI/UX デザイン、バック�
 
 Figma での UI デザインやスクレイピング業務に軽く携わりました。
 
-### 個人事業主 (2021.6~) (現在)
+### 個人事業主 (2021.6~2021.7) (1 ヶ月)
 
 ギルド型組織に所属し、そこから案件を委託してもらっています。
-現在はRailsを中心としているサービスの改善業務に携わっています。
+Rails を中心としているサービスの改善業務に携わりました。
+
+### 株式会社 Plugo (2021.7~) (現在)
+
+業務委託としてバックエンド開発を担当させて頂いています。
 
 ## 特記すべきでない保有資格
 
