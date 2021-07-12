@@ -27,7 +27,7 @@ Web ではフロントエンドだけでなく、UI/UX デザイン、バック�
 [掲示板サイト](https://github.com/Chiji1108/chijiiwa-forum) | Ruby on Rails / Docker / AWS S3 / Heroku / PostgreSQL / devise / kaminari / cancancan / i18n | 2020 年後半
 [オンライン対戦ゲーム「ブロスタ」で、ランキング上位 200 人の対戦履歴とそれぞれの試合内容（使用キャラなど）を簡単に閲覧できるシステム](https://github.com/Chiji1108/bs-ranking) | Next.js(React) / react-window(ウィンドウイング) / Storybook / Tailwind CSS(+ CSS modules) / Firebase (Hosting, Functions, Analytics) / GraphQL(Apollo) / Figma(Adobe XD) / Adobe Illustrator | 2020 年後半 ~ 2021 年前半
 [単語帳アプリ](https://github.com/Chiji1108/tree-flashcard) ([アプリ](https://plant10.vercel.app/)) | PlayWright(スクレイピング) / Vercel / Next.js / Tailwind CSS | 2021 年 5 月
-[Zoom のためのアイコン生成アプリ](https://github.com/Chiji1108/zoom-icon-maker) ([UI](https://master--607ad529e019a8002151d3da.chromatic.com/)) ([アプリ](https://zoom-icon-maker.vercel.app))| Vercel / Chromatic / Next.js / Storybook / Chakra UI / Jest / Mock Service Worker | 2021 年 4 月 ~ 6 月
+[Zoom のためのアイコン生成アプリ](https://github.com/Chiji1108/zoom-icon-maker) ([UI](https://master--607ad529e019a8002151d3da.chromatic.com/)) ([アプリ(PWA 対応)](https://zoom-icon-maker.vercel.app))| Vercel / Chromatic / Next.js / Storybook / Chakra UI / Jest / Mock Service Worker | 2021 年 4 月 ~ 6 月
 
 ## 利用したことのある技術一覧
 
@@ -95,9 +95,9 @@ Web ではフロントエンドだけでなく、UI/UX デザイン、バック�
     - p5.js
     - Processing
   - ゲーム開発
-    - Java
-    - C#
-    - Python
+    - Java (Minecraft)
+    - C# (Unity)
+    - Python (Pyxel)
 
 ## 職務経歴
 
