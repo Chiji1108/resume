@@ -6,11 +6,11 @@
 
 千々岩 真吾 (ちぢいわ しんご)
 
-1999 年生まれ 21 歳 男性
+1999 年生まれ 24 歳 男性
 
-慶應義塾大学環境情報学部 B2
+慶應義塾大学環境情報学部 B4
 
-神奈川県大和市在住
+神奈川県相模原市在住
 
 ## 概要
 
@@ -23,7 +23,7 @@ Web開発ではフロントエンド、UI/UX デザイン、バックエンド�
 ## 主な Web システム開発事例
 
 全て小規模個人開発です。
-概要 | 利用したことのある技術一覧 | 日付　
+概要 | Keyword | 日付　
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------
 [オンライン対戦ゲーム「ブロスタ」で、ランキング上位や特定の人の対戦履歴を保存し検索し閲覧することができるシステム](https://github.com/Chiji1108/bs-pickchecker) | Ruby on Rails / Docker / Heroku / PostgreSQL | 2020 年前半
 [掲示板サイト](https://github.com/Chiji1108/chijiiwa-forum) | Ruby on Rails / Docker / AWS S3 / Heroku / PostgreSQL / devise / kaminari / cancancan / i18n | 2020 年後半
@@ -43,12 +43,11 @@ Web開発ではフロントエンド、UI/UX デザイン、バックエンド�
       - Svelte
     - スタイリング関連
       - **Storybook**
-      - CSS & Sass
-      - Post CSS
+      - CSS & Sass　& Post CSS
       - CSS Modules
       - **Tailwind CSS**
       - Styled-Components
-      - **Chakra UI**
+      - **Chakra UI** & Radix UI
   - バックエンド
     - **NestJS**
     - **Prisma**
@@ -61,10 +60,12 @@ Web開発ではフロントエンド、UI/UX デザイン、バックエンド�
       - MySQL
       - PostgreSQL
       - MongoDB
+      - Neo4j
   - フルスタック
     - Ruby on Rails
   - サービス
     - GCP
+      - Cloud Run
       - Firebase Hosting
       - Firebase Functions (Cloud Functions)
       - Firebase Analytics
@@ -73,8 +74,9 @@ Web開発ではフロントエンド、UI/UX デザイン、バックエンド�
     - Heroku
     - Vercel (for Next.js)
     - Chromatic (for Storybook)
+    - **Supabase**
   - デザイン
-    - Figma
+    - **Figma**
     - Framer
     - Adobe XD
     - Adobe Illustrator
