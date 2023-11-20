@@ -84,6 +84,7 @@ Web開発ではフロントエンド、UI/UX デザイン、バックエンド�
 - スクレイピング
   - PlayWright
   - Puppeteer
+  - **Scrapy**
 - その他
   - ソースコード管理
     - Git
